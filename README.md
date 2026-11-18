@@ -21,7 +21,7 @@ The labs cover:
 * [Protect BGP Sessions with TCP Authentication Option (TCP-AO)](basic/9-ao)
 * [Limit the Number of Accepted BGP Prefixes](basic/b-max-prefix)
 
-**Running BGP in Larger Networks**
+***Running BGP in Larger Networks***
 
 * [Establish an IBGP Session Between WAN Edge Routers](ibgp/1-edge)
 * [Build a Transit Network with IBGP](ibgp/2-transit)
